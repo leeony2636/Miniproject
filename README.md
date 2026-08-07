@@ -8,10 +8,10 @@ Python과 Streamlit을 활용해 구현한 **분류(Classification) / 회귀(Reg
 
 ## 📁 Projects
 
-| 프로젝트 | 유형 | 주요 기술 | 설명 |
+| 프로젝트 | 유형 | 주요 기술 | 실행 |
 |---|---|---|---|
-| Streamlit 분류 앱 | Classification | Python · PyTorch · Streamlit | 학습된 분류 모델을 웹앱에서 실행 |
-| Streamlit 회귀 앱 | Regression | Python · PyTorch · Streamlit | 학습된 회귀 모델을 웹앱에서 실행 |
+| Streamlit 분류 앱 | Classification | Python · PyTorch · Streamlit | [🚀 Demo](https://miniproject-6m88p7gplkcxxrdbxxhvsq.streamlit.app/) |
+| Streamlit 회귀 앱 | Regression | Python · PyTorch · Streamlit | [🚀 Demo](https://miniproject-6m88p7gplkcxxrdbxxhvsq.streamlit.app/) |
 
 ---
 
